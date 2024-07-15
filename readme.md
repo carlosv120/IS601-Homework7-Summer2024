@@ -5,5 +5,5 @@
 ![QR Code generated](image.png)
 
 
-## Screenshot of the log of sucessfully creating the QR code.
+## Screenshot of the Log Showing Successful QR Code Creation
 ![Screenshot](image-1.png)
